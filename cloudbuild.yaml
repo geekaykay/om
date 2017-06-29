@@ -1,0 +1,6 @@
+steps:
+  - name: gcr.io/cloud-builders/gsutil
+    args: ["-m", "rsync", "-r", "-c", "-d", ".", "gs://test.openmoduli.com"]
+  - name: gcr.io/cloud-builders/gsutil
+    args: ["-m", "acl", "ch", "-r", "-u", "allUsers:R", "gs://test.openmoduli.com"]
+    
