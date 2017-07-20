@@ -4644,8 +4644,8 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 
 .navbar-brand {
 	float: left;
-	height: 50px;
-	padding: 15px 15px;
+	height: 40px;
+	padding: 5px 15px;
 	font-size: 18px;
 	line-height: 20px
 }
@@ -4996,7 +4996,6 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 }
 
 .navbar-inverse {
-	height: 55px;
 	background-color: #222;
 	border-color: #080808
 }
