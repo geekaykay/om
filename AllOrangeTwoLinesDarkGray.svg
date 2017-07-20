@@ -15,7 +15,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="AllOrangeTwoLinesLightGray.svg"
+   sodipodi:docname="AllOrangeTwoLinesDarkGray.svg"
    inkscape:export-filename="C:\Users\kg\Documents\NewCo\AllOrangeTwoLinesLightGray.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,7 +62,7 @@
     <text
        dominant-baseline="text-before-edge"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.83604622px;line-height:100%;font-family:'Cutive Mono';-inkscape-font-specification:'Cutive Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;writing-mode:lr-tb;dominant-baseline:text-before-edge;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.80737644;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.83604622px;line-height:100%;font-family:'Cutive Mono';-inkscape-font-specification:'Cutive Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;writing-mode:lr-tb;dominant-baseline:text-before-edge;text-anchor:start;fill:#808080;fill-opacity:1;stroke-width:0.80737644;"
        alignment-baseline="before-edge"
        letter-spacing="0"
        font-style="normal"
@@ -70,8 +70,10 @@
        font-size="32"
        y="278.99469"
        x="619.73767"
-       id="use6450"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.83604622px;font-family:'Cutive Mono';-inkscape-font-specification:'Cutive Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;dominant-baseline:text-before-edge;text-anchor:start;fill:#cccccc;stroke-width:0.80737644;"
+       id="use6450"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.83604622px;font-family:'Cutive Mono';-inkscape-font-specification:'Cutive Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;dominant-baseline:text-before-edge;text-anchor:start;fill:#808080;stroke-width:0.80737644;"
          id="tspan7367"
          dominant-baseline="text-before-edge"
          alignment-baseline="before-edge"
@@ -90,7 +92,7 @@
     <text
        dominant-baseline="text-before-edge"
        xml:space="preserve"
-       style="font-style:normal;font-weight:700;font-size:121.90951538px;line-height:100%;font-family:Montserrat;letter-spacing:0;dominant-baseline:text-before-edge;fill:#cccccc;fill-opacity:1;stroke-width:1.26989067;"
+       style="font-style:normal;font-weight:700;font-size:121.90951538px;line-height:100%;font-family:Montserrat;letter-spacing:0;dominant-baseline:text-before-edge;fill:#808080;fill-opacity:1;stroke-width:1.26989067;"
        alignment-baseline="before-edge"
        letter-spacing="0"
        font-style="normal"
@@ -98,8 +100,10 @@
        font-size="96"
        y="153.52159"
        x="643.02545"
-       id="use6465"><tspan
-         style="dominant-baseline:text-before-edge;text-anchor:start;fill:#cccccc;stroke-width:1.26989067;"
+       id="use6465"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="dominant-baseline:text-before-edge;text-anchor:start;fill:#808080;stroke-width:1.26989067;"
          id="tspan7420"
          dominant-baseline="text-before-edge"
          alignment-baseline="before-edge"
@@ -108,7 +112,7 @@
     <text
        dominant-baseline="text-before-edge"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:121.90804291px;line-height:100%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;writing-mode:lr-tb;dominant-baseline:text-before-edge;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:1.22482753;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:121.90804291px;line-height:100%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;writing-mode:lr-tb;dominant-baseline:text-before-edge;text-anchor:start;fill:#808080;fill-opacity:1;stroke-width:1.22482753;"
        alignment-baseline="before-edge"
        letter-spacing="0"
        font-style="normal"
@@ -116,8 +120,10 @@
        font-size="96"
        y="153.52159"
        x="1022.9625"
-       id="use6468"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:121.90804291px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;dominant-baseline:text-before-edge;text-anchor:start;fill:#cccccc;stroke-width:1.22482753;"
+       id="use6468"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:121.90804291px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;dominant-baseline:text-before-edge;text-anchor:start;fill:#808080;stroke-width:1.22482753;"
          id="tspan7460"
          dominant-baseline="text-before-edge"
          alignment-baseline="before-edge"

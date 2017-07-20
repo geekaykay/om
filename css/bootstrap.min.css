@@ -4706,7 +4706,7 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 .navbar-nav>li>a {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 20px
+	line-height: 20px;
 }
 
 @media ( max-width :767px) {
@@ -4879,7 +4879,7 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 	}
 	.navbar-right {
 		float: right !important;
-		margin-right: -15px
+		margin-right: -15px;
 	}
 	.navbar-right ~.navbar-right {
 		margin-right: 0
@@ -4996,6 +4996,7 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 }
 
 .navbar-inverse {
+	height: 55px;
 	background-color: #222;
 	border-color: #080808
 }
